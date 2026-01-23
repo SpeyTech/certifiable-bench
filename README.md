@@ -345,14 +345,14 @@ certifiable-inference ──→ certifiable-bench ──→ JSON report
 
 | Project | Purpose |
 |---------|---------|
-| [certifiable-data](https://github.com/williamofai/certifiable-data) | Deterministic data pipeline |
-| [certifiable-training](https://github.com/williamofai/certifiable-training) | Deterministic training |
-| [certifiable-quant](https://github.com/williamofai/certifiable-quant) | Model quantization |
-| [certifiable-deploy](https://github.com/williamofai/certifiable-deploy) | Bundle packaging |
-| [certifiable-inference](https://github.com/williamofai/certifiable-inference) | Fixed-point inference |
-| [certifiable-monitor](https://github.com/williamofai/certifiable-monitor) | Runtime monitoring |
-| [certifiable-verify](https://github.com/williamofai/certifiable-verify) | Pipeline verification |
-| [certifiable-harness](https://github.com/williamofai/certifiable-harness) | End-to-end bit-identity |
+| [certifiable-data](https://github.com/SpeyTech/certifiable-data) | Deterministic data pipeline |
+| [certifiable-training](https://github.com/SpeyTech/certifiable-training) | Deterministic training |
+| [certifiable-quant](https://github.com/SpeyTech/certifiable-quant) | Model quantization |
+| [certifiable-deploy](https://github.com/SpeyTech/certifiable-deploy) | Bundle packaging |
+| [certifiable-inference](https://github.com/SpeyTech/certifiable-inference) | Fixed-point inference |
+| [certifiable-monitor](https://github.com/SpeyTech/certifiable-monitor) | Runtime monitoring |
+| [certifiable-verify](https://github.com/SpeyTech/certifiable-verify) | Pipeline verification |
+| [certifiable-harness](https://github.com/SpeyTech/certifiable-harness) | End-to-end bit-identity |
 
 ---
 
@@ -379,7 +379,7 @@ All contributions require a signed Contributor License Agreement.
 
 **William Murray**  
 The Murray Family Innovation Trust  
-[SpeyTech](https://speytech.com) · [GitHub](https://github.com/williamofai)
+[SpeyTech](https://speytech.com) · [GitHub](https://github.com/SpeyTech)
 
 ---
 
